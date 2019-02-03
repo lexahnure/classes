@@ -50,3 +50,7 @@ jspm_packages/
 .vscode/
 *.sublime-workspace
 *.sublime-project
+
+# dist
+public/
+dist/
